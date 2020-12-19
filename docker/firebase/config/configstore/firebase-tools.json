@@ -1,0 +1,51 @@
+{
+	"analytics-uuid": "ec041ad1-09fd-4105-a094-d2ae51acffef",
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1608414737539
+	},
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "101024542189396163765",
+		"email": "honwaka.developer@gmail.com",
+		"email_verified": true,
+		"at_hash": "yIXbyTjncCg9ldFm993n0A",
+		"iat": 1608414829,
+		"exp": 1608418429
+	},
+	"tokens": {
+		"expires_at": 1608418584419,
+		"refresh_token": "1//0eiajV6qVhsFcCgYIARAAGA4SNwF-L9IrIsolKJ1R4A2Shi7xkBH25AakH8bppNJ56iXTfPLMCTZg8Abnkp-ya1rqTsG_xwYxOSQ",
+		"scopes": [
+			"email",
+			"https://www.googleapis.com/auth/cloud-platform",
+			"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+			"https://www.googleapis.com/auth/firebase",
+			"openid"
+		],
+		"access_token": "ya29.a0AfH6SMBZVuWaWTPh7H5xd_BZo_GxVBLzgzCTR45NR2ajtS6NWW9NaP7rUIQ8ed5cOHcYb5B1BoT7__Y5jEp61AMA-PuXLKj1gTKmdc7SLTzF-wRMsfCTSWZdH5fbAVLLqUmUAB_xRfkK7nWrz2bdDHSRmr8ZUSi6gUtoA4_Qvz-rvL-eI_4",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/userinfo.email openid https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/cloud-platform",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImUxOTdiZjJlODdiZDE5MDU1NzVmOWI2ZTVlYjQyNmVkYTVkNTc0ZTMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTAxMDI0NTQyMTg5Mzk2MTYzNzY1IiwiZW1haWwiOiJob253YWthLmRldmVsb3BlckBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXRfaGFzaCI6IjFXSFdqWjFfNGdWS0Y0amVmSUxLeEEiLCJpYXQiOjE2MDg0MTQ5ODUsImV4cCI6MTYwODQxODU4NX0.PK9KgOD0BfMgMt2FucYYtoVe-fnYuzJYPUXIPmkJ01jfY5jAYmvwE8GRSnsJWr2FH_PckiR5uuqdvxAytc5s87gD-jhD9WcVaN7jgU6MXztdZdWMvRA_r1ShHtURsMUR9gZB9DR6e2qArmsNgv0HmhLkiQH3fUIMxbnUheZhMCHPI2NmTJOuwv0h6Xfma5Kf6tY2-Q-2US_Yjab-9-UfE095S8w_xySR5YISErVChJrhcV4YSyJEp9mc4Z2nsS0rZwO7UBkEs1DN9Li8zrX9NgDl7XmTU6L8CpcM3JJBpYsmpKWL8kPglJOkb54eNE-cZX_Rikhu5QQBizpXv9-bEw"
+	},
+	"loginScopes": [
+		"email",
+		"openid",
+		"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+		"https://www.googleapis.com/auth/firebase",
+		"https://www.googleapis.com/auth/cloud-platform"
+	],
+	"activeProjects": {
+		"/opt/workspace": "fir-emulator-demo-48f2b"
+	}
+}
