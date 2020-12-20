@@ -117,4 +117,4 @@ app.*.symbols
 !/dev/ci/**/Gemfile.lock
 
 # Firebase
-**/ios/GoogleService-Info.plist
+**/ios/**/GoogleService-Info.plist
